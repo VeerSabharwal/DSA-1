@@ -1,0 +1,4 @@
+Largest element: 2
+Smallest element: 1
+Sum of elements: 3
+Average of elements: 1.50
